@@ -1,0 +1,7 @@
+{
+  "reuqire": {
+    "silex/silex": "~2.0",
+    "phpunit/phpunit": "5.7.0",
+    "twig/twig": "~1.0"
+  }
+}
